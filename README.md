@@ -1,2 +1,2 @@
 # Vježba
-opis repozitorija
+Opis repozitorija
